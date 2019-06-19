@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/jiro/.platformio/penv/bin:/Users/jiro/.platformio/penv:/Users/jiro/.nodebrew/current/bin/node:/Users/jiro/anaconda/bin:/Users/jiro/anaconda3/bin:/usr/local/Cellar/ant/1.9.4/libexec/bin:/Users/jiro/Downloads/cocos2d-x-3.7.1/templates:/Users/jiro/Downloads/cocos2d-x-3.7.1/tools/cocos2d-console/bin:/Users/jiro/.rbenv/shims:/Users/jiro/.pyenv/shims:/Users/jiro/.pyenv/bin:/Users/jiro/.pyenv/shims:/Users/jiro/.pyenv/bin:/Users/jiro/bin/Sencha/Cmd/5.0.1.231:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/Applications/microchip/xc16/v1.21/bin:/Applications/microchip/xc8/v1.32/bin:/Applications/microchip/xc16/v1.21/bin:/Applications/microchip/xc8/v1.32/bin:/usr/local/opt/git/bin/:/Users/jiro/.fzf/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
